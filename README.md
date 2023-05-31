@@ -3,8 +3,6 @@ This repository contains my capstone project for the Google Data Analytics Profe
 
 The case study presents a scenario where you act as a junior data analyst working for the fictional company Cyclistic Bike-Share. The analyst will answer key business questions by following the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-A summary of the relevant sections minus the actual code and output can be seen below.
-
 The file cyclistic-bike-share-analysis-in-r_project.ipynb is a copy of the RMarkdown Notebook in .ipynb format which displays the code and output including visualization.
 
 The index.html is the html version which can be viewed at the following github pages URL:  
@@ -13,6 +11,8 @@ https://jluera.github.io/cyclistic-bike-share_analysis_capstone/
 I also have a version in Kaggle that is just slightly different as I used a similar but not 100% the same dataset and had to make a small amount of minor code changes due to Kaggle environment. This version can be seen here:
 https://www.kaggle.com/code/jasonluera/cyclistic-bike-share-analysis-in-r-capstone
 
+Verification of completion of the Google Data Analytics Professional Ceritificate can be seen here:
+https://www.credly.com/badges/376995e4-efeb-41c0-aa6f-e78c847f04d6
 
 ## A summary of the relevant sections minus the actual code and output can be seen below.
 
