@@ -89,9 +89,9 @@ Based on this analysis, my recommendations are as follows:
 3. **Initiate a campaign utilizing local "influencers" and social media to spread the word on the benefits of an Annual Membership.** Target some of the more popular "influencers" in town to help advertise the bike-share service to locals and visitors alike. Have those selected demonstrate how convenient the Cyclistic bike-share product is, and how easy it is to quickly get to various popular spots in downtown Chicago while using it. Likewise, run a social media campaign utilizing Annual Members and offer a discount or various perks if they make a social media post mentioning why they love using Cyclistic bike-share.
 
 ### **REFERENCES:**
-* RDocumentation  
-* R Charts  
-* The R Graph Gallery  
-* rstudio Community  
-* Kaggle Community  
-* Stack Overflow  
+* [RDocumentation](https://www.rdocumentation.org/)
+* [R Charts](https://r-charts.com/)
+* [The R Graph Gallery](https://r-graph-gallery.com/index.html)
+* [rstudio Community](https://community.rstudio.com/)
+* [Kaggle Community](https://www.kaggle.com/)
+* [Stack Overflow](https://stackoverflow.com/)
