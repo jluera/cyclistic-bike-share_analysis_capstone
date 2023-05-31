@@ -53,9 +53,9 @@ This data pulled for this analysis represents the past 12 months of trip data. T
 ### **Summary Of Changes**
 So far during the pre-processing and cleaning phase we have made the following changes:
 
-Merged 12 dataframes into one called trips.
-Renamed the rideable_type column values of "docked_bike" to "classic_bike" for consistency.
-Added the following columns:  
+* Merged 12 dataframes into one called trips.  
+* Renamed the rideable_type column values of "docked_bike" to "classic_bike" for consistency.  
+* Added the following columns:    
 &nbsp;&nbsp;&nbsp;&nbsp; - date  
 &nbsp;&nbsp;&nbsp;&nbsp; - hour  
 &nbsp;&nbsp;&nbsp;&nbsp; - day  
@@ -67,8 +67,8 @@ Added the following columns:
 &nbsp;&nbsp;&nbsp;&nbsp; - Changed rideable_type to  ride_type  
 &nbsp;&nbsp;&nbsp;&nbsp; - Changed started_at to start_time  
 &nbsp;&nbsp;&nbsp;&nbsp; - Changed ended_at to end_time  
-&nbsp;&nbsp;&nbsp;&nbsp; - Changed member_casual to customer_type 
-Filtered out rows where the ride_duration is less than 1, including many negative duration values.
+&nbsp;&nbsp;&nbsp;&nbsp; - Changed member_casual to customer_type   
+* Filtered out rows where the ride_duration is less than 1, including many negative duration values.  
 
 
 ### **Summary Of Analysis**
