@@ -53,19 +53,19 @@ So far during the pre-processing and cleaning phase we have made the following c
 
 Merged 12 dataframes into one called trips.
 Renamed the rideable_type column values of "docked_bike" to "classic_bike" for consistency.
-Added the following columns:
-     - date
-     - hour
-     - day
-     - month
-     - year
-     - day_of_week
-     - ride_duration
-Renamed the following columns:
-     - Changed rideable_type to ride_type
-     - Changed started_at to start_time
-     - Changed ended_at to end_time
-     - Changed member_casual to customer_type
+Added the following columns:  
+     - date  
+     - hour  
+     - day  
+     - month  
+     - year  
+     - day_of_week  
+     - ride_duration  
+Renamed the following columns:  
+     - Changed rideable_type to ride_type  
+     - Changed started_at to start_time  
+     - Changed ended_at to end_time  
+     - Changed member_casual to customer_type  
 Filtered out rows where the ride_duration is less than 1, including many negative duration values.
 
 
